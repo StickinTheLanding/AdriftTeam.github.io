@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Adrift Team</title>
+	<founding-date>February 23, 2023</founding-date> <!-- Needed Update -->
+	<website>www.instagram.com/stickinthelanding</website> <!-- Needed Update -->
+	<based-in>Zaragoza, Spain</based-in>
+	
+	<press-contact>adriftteambusiness@gmail.com</press-contact> <!-- Needed Update -->
+	<phone></phone> <!-- Needed Update -->
+	<address>
+		<line>Campus Universitario, Autovía Mudéjar, km. 299, 50830 Villanueva de Gállego, Zaragoza</line> <!-- Needed Update -->
+	</address>
+
+	<socials>
+		<social>
+			<name>AdriftTeam Instagram</name> 
+			<link>www.instagram.com/stickinthelanding/</link> 
+		</social>
+		<social>
+			<name>AdriftTeam TikTok</name> 
+			<link>www.tiktok.com/@stickinthelanding</link> 
+		</social>
+	</socials>
+
+	<description>	
+		
+		Stickin' the landing is a puzzle game where the player has to help navigate a spaceship adrift with gravitational forces until it reaches the finish line.
+		Travel your house with the help of different stickers and avoid the obstacles you encounter in the adventure exploring the galaxy of your imagination.
+
+		Put stickers and manage the gravitational force to arrive at your destination.
+	</description>
+		
+	<histories>
+		
+		<history>
+			<header>Early prototipe (2021)</header>
+			<text>We are a group of college classmates who took advantage of the existence of a non-profit company at the university to develop and publish video games. The last year of university we finally created our own team.
+				Originally Chema, Marko and Javier with the help of another student outside of the actual project, Victor, had to create a game for a group assignment. The game was made with the goal of passing the subject but we recognized that it had potential.</text>
+		</history>
+		<history>
+			<header>Current Development (2023)</header>
+			<text>Two years after the first prototype we decided to revisit the idea for the Videogame Production subject and make a full game. We passed the subject and went on to produce the game. Since we needed some help with some parts of the game we decided to add new members until we were a team composed by 10 members.</text>
+		</history>
+	</histories>
+		
+	<trailers>
+		<!-- <trailer>-->
+		<!-- 	<name>This video is nice</name>-->
+		<!-- 	<youtube>7jQbITg0MSk</youtube>Needed Update-->
+		<!-- </trailer>-->
+		<!-- <trailer>-->
+		<!-- 	<name>This one too</name>-->
+		<!-- 	<youtube>0CevOaYrYDA</youtube>Needed Update-->
+		<!-- 	<vimeo>12536488</vimeo>Needed Update-->
+		<!-- </trailer>-->
+		<trailer>
+		 	<name>Trailer</name>
+			<youtube>o6qUroa_1Ac</youtube>
+		</trailer>
+		<trailer>
+		 	<name>Lore Animatic</name>
+			<youtube>o6qUroa_1Ac</youtube>
+		</trailer>
+
+	</trailers>
+	
+	<awards>
+		<!--<award>-->
+		<!--	<description>Winner in this highly relevant contest.</description> Needed Update -->
+		<!--	<info>Award Location, 20 October, 1989</info>Needed Update -->
+		<!--</award>-->
+	</awards>
+	
+	<quotes>
+		<!-- <quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>Needed Update 
+			<name>Person Name</name>Needed Update 
+			<website>Website</website>Needed Update 
+			<link>http://www.website.com/</link>Needed Update 
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>Needed Update 
+			<name>Some Guy</name>Needed Update 
+			<website>This Page Is Visited By 12 Visitors A Month</website>Needed Update 
+			<link>http://geocities.blog.com/</link> Needed Update
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>Needed Update 
+			<name>Pretentious Bastard</name> Needed Update 
+			<website>Artsy Page</website> Needed Update 
+			<link>http://art.tumblr.com/</link> Needed Update
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description> Needed Update 
+			<name>Caps Guy</name> Needed Update 
+			<website>Angry Review</website> Needed Update 
+			<link>http://thispage.net/angrytube</link> Needed Update 
+		</quote> -->
+	</quotes>
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<additionals>
+		<additional>
+			<title>Entalto Studios</title>
+			<description>Check out our publishers! </description>
+			<link>http://www.entaltostudios.com</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Vera Perales</person>
+			<website>https://www.linkedin.com/in/vera-perales-buil-3991b5242/</website>
+			<role>Art Director, 2D Artist, 2D Animator</role>
+		</credit>
+		<credit>
+			<person>Alejandro Peño</person>
+			<website>https://www.linkedin.com/in/alejandro-peño-gómez-9a3620128/</website>
+			<role>Technical Artist,3D Artist</role>
+		</credit>
+		<credit>
+			<person>Marko Longo</person>
+			<website>https://www.linkedin.com/in/marko-longo-urcelay-808759286/</website>
+			<role>Technical Artist, Game Designer</role>
+		</credit>
+		<credit>
+			<person>Adrián Silvestre</person>
+			<website>https://www.instagram.com/inspirasao/</website>
+			<role>UI Artist</role>
+		</credit>
+		<credit>
+			<person>José María Ardid</person>
+			<website>https://twitter.com/Josemardid</website>
+			<role>Game Director, Programmer</role>
+		</credit>
+		<credit>
+			<person>Javier Gastón</person>
+			<role>Programmer</role>
+		</credit>
+		<credit>
+			<person>Sandra Garijo</person>
+			<role>2D Artist, 2D Animator</role>
+		</credit>
+		<credit>
+			<person>Pedro Jato</person>
+			<website>https://jaton24.artstation.com/</website>
+			<role>3D Artist</role>
+		</credit>
+		<credit>
+			<person>María Gastón</person>
+			<role>Music, Sound Designer</role>
+		</credit>
+		<credit>
+			<person>Alejandro Fuentelsaz</person>
+			<website>https://www.linkedin.com/in/alejandro-fuentelsaz-827ab123b/</website>
+			<role>Game Designer</role>
+		</credit>
+		<credit>
+			<person>Enrique Martínez</person>
+			<role>Producer, Publishing Coordinator</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>adriftteambusiness@gmail.com</mail>
+		</contact>
+		<contact>
+			<name>Instagram</name>
+			<link>https://www.instagram.com/stickinthelanding</link>
+		</contact>
+	</contacts>
+</game>
